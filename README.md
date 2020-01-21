@@ -1,0 +1,2 @@
+# rssq
+windows10
